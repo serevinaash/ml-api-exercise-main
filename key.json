@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "submissionmlgc-serevina",
+  "private_key_id": "a3670bfdf89e0f998238ba93186e1ee7714855dc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQD3IxaQi75rXmSb\nEpm1iWOmCQIQo8JQNnBa6ONzm6cag4zDnmbd6dEFxkSsEPu0gq/H9TByWp9EuvoU\nDEZVksdMV5AQgI/3NqRg82L5N5im2nEGoCKjBq3tEByDOaTgl+NWqb6nznFrN7FB\nIklv39IWLfrUUBmxXC7QAahOPGgQFpq75/uzkgBetxQ+9hDnh4SraiGL9drOdCeb\nIihJIZGF0sHtfaTawaT9350+RcVNVhad6lkgmwozatBlwGUHBYz8im0L8lYDsM1Y\n0m3ZjDf3lQsHdMKYnNn4bXNbNVaNlNoSPpZEVWcJrqZcrTNgBPXjufJPxkAbjNpO\n089xtc+LAgMBAAECggEAPFyWm1F2ffT9L58Yae2XqCsVFQlaYYsaYCn3u/ntk51D\n2VesGlGMmxN1HG29fLZaxsUNQzD9K6VbhWAGIcqK4QuWBWHRR/lRpthreSFqKH68\nEnk0XIs6GefQfwCqU6zlevpUtdnHe/+LTLRaKXgKcR5j4E18KQSx7l4pRIqehCb2\nXxivmpg2jQv+IY18g6QddROtQPrlNp7tZJHUNGf+KI3dlMLD348G5vwLljVxFj8b\nva8QVzV32VJNPy7mILgFYWglQGVKrdz2kRZOfabIjUx8reFpSDXK6YLe7765MTBO\nllrS3NyfEGc18F2jMoJ55C7d+hvKEVQDR5wxbVkaSQKBgQD8LiaYuRf2HJJF/gla\nGouffB8DM1TQNZgPYRMt3K12GzlIc4g42rgAnymG0VAOLTxi90OaP7vijPjkJbLW\nXYso3jcxIGVJGx4PSASqeTv39t3nV6xq5sArZ4Qe7BGwJcBdkttSt7QyO5OFOFpX\niGV+ZpLZJVonKjZe90spxhhV7wKBgQD64WHE7lthEHHfhG/vgobG5BOBbahQq5G+\nMbj8yW8HPZAVnz+zAP+z+pymS2wK9zgayw32zTQPkW2EBBvdtJ9x/ljB0iU4/6w+\nkZDBspfU2S4YgG0FGNLkaN5RyRLHRcn3bNx8wub4DBtAfrT3ggBo8NFnvV6k/dfS\n0E4tFyjcJQKBgQDq/9bX2ySJJHbq4qC0ZqhWJsR/pwYSQN9C9aN5yXub5CKtcXwv\n/yIY8jkweT2w+Fadou5Mf7gGlngZo0fUm7dijjHAhf/c8HhCpUoz0mYf3N1NCFaU\nCBRsXjqw1ixliciJaqEXpDk31mzSaIFHsMNj1xJhaH1qodupA6n3c7KZ4QKBgFoj\nvpgeOBDg8rkngXxhvoEZk3SObMpHSr82aEvTKCRG100dgaqUMkt9QOly8efiuXLP\nAD5rrkflrZ6gR07aReuUQlmpYpxfKIj2jjc6LtlYCvrcsc8CA0vz7eUexLN6fL18\njJ/6+zemSehbXjQLrpAF7odCgA3x8qiZFW2YA6NNAoGACPDELAv98kjGtMWsz8Vy\nyQRI9dRjQ1Ej91mMJErhxofdj7wKlx8HgiQ91aTbFgHylARLI4bZucVUcdzcBQhq\nnsx7QXsfu4KGUeVqj3wXkeCCI5xiTZgjLshFKPqvudyxBy9j/hdSkN/6dKzMvD4T\nUQUQxGVsX5uRCZ5RQYIeAl0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "kunci-firebase-cancer@submissionmlgc-serevina.iam.gserviceaccount.com",
+  "client_id": "105331768091532354446",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kunci-firebase-cancer%40submissionmlgc-serevina.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

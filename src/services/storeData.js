@@ -1,7 +1,7 @@
 const { Firestore } = require('@google-cloud/firestore');
 const path = require('path');
 
-const pathKey = path.resolve('./submissionmlgc-serevina-a3670bfdf89e.json')
+const pathKey = path.resolve('./key.json')
 
 async function storeData(id, data) {
 
