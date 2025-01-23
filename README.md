@@ -23,7 +23,7 @@ This project is a machine learning application developed for **cancer detection*
 ### 1. Clone Repository
 ```bash
 git clone https://github.com/serevinaash/ml-api-exercise-main.git
-cd ml-cancer-detection
+cd ml-api-exercise-main
 ```
 2. Instalasi Dependensi Backend
 Instal semua dependensi untuk backend:
